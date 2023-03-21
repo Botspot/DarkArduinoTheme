@@ -1,4 +1,4 @@
-![screenshot](https://raw.githubusercontent.com/jeffThompson/DarkArduinoTheme/master/screenshot.png)
+![screenshot](before-and-after.png)
 
 # Dark Arduino Theme
 

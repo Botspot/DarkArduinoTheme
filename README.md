@@ -2,7 +2,7 @@
 
 Works for the Java version of Arduino. At the time of writing that is version 1.8.19
 
-![screenshot](before-and-after.png)
+![screenshot](dark-arduino.png)
 
 \- \- \-
 
